@@ -1,9 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 
 /**
  * main - main function
  *
- * Return : o on success
+ * Return: o on success
  */
 int main(void)
 {
